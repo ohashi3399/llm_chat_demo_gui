@@ -20,6 +20,12 @@ pip install -r requirements.txt
 streamlit run chatdemo.py
 ```
 
+https://github.com/ohashi3399/llm_chat_demo_gui/assets/87519834/91fe44b2-9d2a-4e33-9c47-679753c7a6e2
+
+
+https://github.com/ohashi3399/llm_chat_demo_gui/assets/87519834/643b5cd5-9076-44ba-994e-3b5c844746c7
+
+
 > **Warning**
 > HugginhfaceのモデルをLoRAで学習したLLMのみを対象としています。
 > ご了承下さい。
