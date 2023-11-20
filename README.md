@@ -1,6 +1,7 @@
 # 自由対話のための日本語LLM用GUI
 - LoRAで学習した日本語LLMの簡易デモアプリを作成しました。
 - 学習の結果をGUIで確認したい時にお使い下さい。
+- HugginhfaceのモデルをLoRAで学習したLLMのみを対象としています。ご了承下さい。
 - powered by Streamlit
 
 # 🖥️ 動作環境
@@ -25,10 +26,6 @@ https://github.com/ohashi3399/llm_chat_demo_gui/assets/87519834/91fe44b2-9d2a-4e
 
 https://github.com/ohashi3399/llm_chat_demo_gui/assets/87519834/643b5cd5-9076-44ba-994e-3b5c844746c7
 
-
-> **Warning**
-> HugginhfaceのモデルをLoRAで学習したLLMのみを対象としています。
-> ご了承下さい。
 
 # 📖 参考
 ## Streamlit
