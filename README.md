@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 # ⚙️ 動作手順
 ```
-streamlit run chatdemo.py
+streamlit run chat_demo.py
 ```
 
 https://github.com/ohashi3399/llm_chat_demo_gui/assets/87519834/91fe44b2-9d2a-4e33-9c47-679753c7a6e2
